@@ -21,7 +21,7 @@ A lightweight and user-friendly hotel booking management app built with React. T
 - JSON Server (for mock backend)
 
 ---
-<img width="1155" height="857" alt="image" src="https://github.com/user-attachments/assets/aa349b77-41b2-42c2-814f-b3b4519145cd" />
+
 ## 📦 Installation
 
 ```bash
@@ -30,5 +30,6 @@ cd hotel-management
 npm install
 
 
-
+```
+## image 📸
 <img width="1155" height="857" alt="image" src="https://github.com/user-attachments/assets/aa349b77-41b2-42c2-814f-b3b4519145cd" />
