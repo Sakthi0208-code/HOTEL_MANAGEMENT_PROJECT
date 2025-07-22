@@ -11,7 +11,6 @@ A lightweight and user-friendly hotel booking management app built with React. T
 - 📝 Update or delete bookings
 - 🗃️ Store data using `json-server` (acts like a local database)
 - 🎨 Simple and modern UI with subtle CSS animations
-- 🔍 API testable with Postman
 
 ---
 
@@ -20,7 +19,6 @@ A lightweight and user-friendly hotel booking management app built with React. T
 - React
 - CSS (with animations)
 - JSON Server (for mock backend)
-- Postman (for API testing)
 
 ---
 
