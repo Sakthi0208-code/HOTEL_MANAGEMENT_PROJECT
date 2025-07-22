@@ -28,3 +28,7 @@ A lightweight and user-friendly hotel booking management app built with React. T
 git clone https://github.com/your-username/hotel-management.git
 cd hotel-management
 npm install
+
+
+
+<img width="1155" height="857" alt="image" src="https://github.com/user-attachments/assets/aa349b77-41b2-42c2-814f-b3b4519145cd" />
