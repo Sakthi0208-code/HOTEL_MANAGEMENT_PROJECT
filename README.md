@@ -33,25 +33,25 @@ npm install
 ```
 ## image 📸
 
-its the base ui
+## Its the base ui
 
 <img width="1155" height="857" alt="image" src="https://github.com/user-attachments/assets/aa349b77-41b2-42c2-814f-b3b4519145cd" />
 
-After we add oru customers on the db 
+## After we add oru customers on the db 
 
 <img width="947" height="916" alt="image" src="https://github.com/user-attachments/assets/0892fd32-7685-49e5-967b-b64e60dd65a0" />
 
-Its our json local db for storage
+## Its our json local db for storage
 
 <img width="502" height="601" alt="image" src="https://github.com/user-attachments/assets/c7d292a6-d4b1-423d-9fcf-4ddb6705834e" />
 
-In that we can delete and update
+## In that we can delete and update
 
 <img width="946" height="347" alt="image" src="https://github.com/user-attachments/assets/6db0b82d-45cb-45e1-8422-8f9225dc3d21" />
 
 <img width="954" height="439" alt="image" src="https://github.com/user-attachments/assets/12bc3b27-8d18-470e-9417-b5a11785c801" />
 
-After deleting
+## After deleting
 
 <img width="1052" height="312" alt="image" src="https://github.com/user-attachments/assets/fbc5d892-24c1-4905-9eac-45c0470cfda9" />
 
