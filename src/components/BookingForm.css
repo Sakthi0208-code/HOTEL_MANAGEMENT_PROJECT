@@ -1,0 +1,55 @@
+.booking-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 320px;
+  margin: 20px auto;
+  padding: 25px;
+  border-radius: 10px;
+  background: #fdfdfd;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+  animation: slideIn 0.7s ease-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.booking-form h2 {
+  text-align: center;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.booking-form input,
+.booking-form button {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 15px;
+  transition: 0.3s ease;
+}
+
+.booking-form input:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0,123,255,0.5);
+}
+
+.booking-form button {
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+.booking-form button:hover {
+  background-color: #0056b3;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}

@@ -1,0 +1,9 @@
+.booking-item {
+  border: 1px solid #ccc;
+  margin: 10px;
+  padding: 10px;
+}
+
+.booking-item button {
+  margin-right: 10px;
+}
